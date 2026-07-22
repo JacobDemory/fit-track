@@ -23,6 +23,7 @@ migrate_working_dir/
 # is commented out by default.
 .vscode/
 **/local.properties
+**/Flutter/flutter_export_environment.sh
 
 # Flutter/Dart/Pub related
 **/doc/api/
