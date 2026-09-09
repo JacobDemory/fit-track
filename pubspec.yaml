@@ -36,7 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   pedometer: ^4.0.2
   fl_chart: ^0.70.2
-  permission_handler: ^12.0.1
+  permission_handler: ^13.0.2
   file_picker: ^10.3.10
   sqflite: ^2.4.2
   path_provider: ^2.1.5
